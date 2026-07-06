@@ -1,0 +1,22 @@
+---
+session_id: 00001H
+state: H
+timestamp_utc: 2026-07-06T09:24:05.443914Z
+rrvi_version: 1.0.1
+immutable: true
+---
+
+# RRVI™ Release v1.0.1
+
+This release contains no architectural changes.
+
+## Purpose
+
+- Enable Zenodo archival after repository activation.
+- Preserve the canonical Version 1.0 publication.
+- No changes have been made to the RRVI™ Engineering Manifesto.
+- No changes have been made to the EU AI Act Remote-Inspection-Ready™ Engineering Manifesto.
+
+Date: 2026-07-02
+
+Author: Dan Ionescu
